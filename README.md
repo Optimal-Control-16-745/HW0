@@ -13,6 +13,9 @@ All the homeworks are distributed as Jupyter notebooks. Follow these instruction
 ## Updating `studentinfo()`
 Update your name and Andrew ID in the file `src/HW0.jl`. 
 
+## Doing the homework 
+Fill in `src/Q1.ipynb` and `src/Q2.ipynb`. There are tests in these notebooks that ensure you have completed the exercises correctly. If all of the tests pass, you can consider the assignment completed. 
+
 ## Submitting your homework
 Make sure your repo lives under the Class Organization. This will be done automatically when you use the GitHub Classrooms link we send provide. To submit, simply create a release. Follow [these instructions](https://github.com/Optimal-Control-16-745/JuliaIntro/blob/main/docs/Submission%20Instructions.md) for more info on creating the release.
 
