@@ -20,7 +20,7 @@ Fill in `src/Q1.ipynb` and `src/Q2.ipynb`. There are tests in these notebooks th
 Make sure your repo lives under the Class Organization. This will be done automatically when you use the GitHub Classrooms link we send provide. To submit, simply create a release. Follow [these instructions](https://github.com/Optimal-Control-16-745/JuliaIntro/blob/main/docs/Submission%20Instructions.md) for more info on creating the release.
 
 ## Adding the Upstream Repo
-We may release changes to the homework periodically if errors or bugs are found. Follow these instructions for linking your repo to the original template and pulling changes. It's always a good idea to branch your code before pulling from the upstream repo in case something goes wrong or the merge is particularly nasty. Do the right away after creating your repo.
+We may release changes to the homework periodically if errors or bugs are found. Follow these instructions for linking your repo to the original template and pulling changes. It's always a good idea to branch your code before pulling from the upstream repo in case something goes wrong or the merge is particularly nasty. Do this right away after creating your repo.
 ```
 git remote add upstream https://github.com/Optimal-Control-16-745/HW0
 git pull upstream main --allow-unrelated-histories
